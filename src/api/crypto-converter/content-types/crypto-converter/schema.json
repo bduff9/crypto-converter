@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "crypto_converters",
+  "info": {
+    "singularName": "crypto-converter",
+    "pluralName": "crypto-converters",
+    "displayName": "crypto-converter"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    }
+  }
+}
